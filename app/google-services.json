@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "313128332160",
+    "firebase_url": "https://mlkit-testing-environment.firebaseio.com",
+    "project_id": "mlkit-testing-environment",
+    "storage_bucket": "mlkit-testing-environment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313128332160:android:48fb454349540847",
+        "android_client_info": {
+          "package_name": "com.example.jonathan.mp9_jonathan_sekula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313128332160-8s91tn68f9j9jv6gtdhqjb5j2rasbgni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoj3S7hhr4ZZlXimckfIwkrI7jB-jN_XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313128332160-8s91tn68f9j9jv6gtdhqjb5j2rasbgni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
